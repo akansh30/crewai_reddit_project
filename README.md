@@ -1,5 +1,7 @@
 ### Project Overview: Reddit Data Analysis with Crew AI and Groq LLM
 
+![Screenshot 2025-06-06 032157](https://github.com/user-attachments/assets/d3512bce-b5cc-4420-a564-67ab8f1e8471)
+
 ## What is Crew AI?
 
 **Crew AI** is a framework designed to orchestrate multiple AI agents, each with a specific role, to work together like a team. Each agent can handle a distinct task, and they collaborate in a pipeline-like process to complete a complex workflow.
