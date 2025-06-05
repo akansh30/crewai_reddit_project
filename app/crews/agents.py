@@ -1,6 +1,6 @@
 from crewai import LLM, Agent
 
-groq_llm = LLM(model="groq/meta-llama/llama-4-scout-17b-16e-instruct")
+groq_llm = LLM(model="groq/llama-3.3-70b-versatile")
 
 fetch_agent = Agent(
     role="Reddit Data Collector",
