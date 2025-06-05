@@ -10,7 +10,7 @@
 
 In this project, Crew AI is used to:
 
-- Define multiple agents, for example:
+- Define multiple agents:
   - A **Researcher agent** to find relevant Reddit users.
   - An **Analyst agent** to compute user metrics like karma, activity level, etc.
   - An **Output agent** to save the final processed data into a file (like Excel).
